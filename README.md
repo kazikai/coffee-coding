@@ -1,6 +1,11 @@
 # coffee-coding
 가볍게 커피마시면서 코딩하고 서로의 프로젝트를 공유하는 모임
 
+---
+*본문서는 마크다운으로 작성 되었습니다. 
+---
+
+
 #참여멤버: 총8명
 - 김성원
 - 이현국
@@ -13,11 +18,15 @@
 
 #프로젝트설명 (양식은 자유)
 한정현 :
-- telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
-- 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
-- node.js  로 개발
-- 2차로 미세먼지 봇 개발
-- 그다음 일정관리app  개발
+1. 알뜰 구매 Bot
+  - telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
+  - 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
+  - node.js로 개발 : wrapper는 현재 사용하지 않을 계획이나, 구현이슈로 사용할 수도있음
+  - 
+2. 미세먼지 알림 Bot
+  - 2차로 미세먼지 봇 개발
+  - 그다음 일정관리app  개발
+
 
 신호철 :
 * telegram+twitter bot
@@ -61,7 +70,7 @@
     * SMS
   * 1차구현
     * CGV 영화페이지 [상영시간표](http://www.cgv.co.kr/reserve/show-times/?areacode=01&theaterCode=0074&date=20160402)를 이용한 예매풀림 알림
- 
+
 이현국 :
 * .........프로젝트 재설정...........
   * WAI-ARIA 를 위한 플러그인 제작은 다시 생각해보니 너무 무리

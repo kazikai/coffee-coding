@@ -13,7 +13,8 @@
 
 #프로젝트설명 (양식은 자유)
 한정현 :
-- telegram bot 개발하기
+- telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
+
 - 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
 - node.js  로 개발
 - 2차로 미세먼지 봇 개발

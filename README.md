@@ -43,3 +43,12 @@
   * 필요한 모듈을 위젯 형식으로 관리
   * 반응형 웹에 대한 연구
   * ( 텔레그램 봇 개발도 굉장히 매력적이네요 어느정도 마무리되면 저도 도전해보려합니다 :) )
+
+
+윤정민 :
+* iOS용 필터카메라 앱 개발
+  * Swift로 개발
+  * GPUImage framework (https://github.com/BradLarson/GPUImage) 사용
+  * Custom filter 개발을 위한 OpenGL ES Shader 공부 (https://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial 등)
+
+

@@ -17,9 +17,16 @@
 - 신호철
 - 한정현
 
+# Ground Rule
+***
+* 모이는 시간은 매주 화요일 6시 밥 먹고 2층
+* 1달에 한번은 외부에 나가자?
+* 모임은 누가 주도할 것인지? (대무?)
+
+
 #프로젝트설명 (양식은 자유)
 한정현 :
-* 알뜰 구매 Bot
+* 알뜰 구매 Bot : 1달 정도 ( 4/26 까지 )
   * telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
   * 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
   * node.js로 개발 : wrapper는 현재 사용하지 않을 계획이나, 구현이슈로 사용할 수도있음

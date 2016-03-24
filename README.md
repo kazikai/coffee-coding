@@ -3,7 +3,7 @@
 목적 : 가볍게 커피마시면서 코딩하고 서로의 프로젝트를 공유하는 모임
 
 ---
- ## 본문서는 마크다운으로 작성 되었습니다. 
+ ## 본문서는 마크다운으로 작성 되었습니다.
 ---
 
 
@@ -19,13 +19,13 @@
 
 #프로젝트설명 (양식은 자유)
 한정현 :
-1.알뜰 구매 Bot
-  - telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
-  - 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
-  - node.js로 개발 : wrapper는 현재 사용하지 않을 계획이나, 구현이슈로 사용할 수도있음
-2.미세먼지 알림 Bot
-  - 2차로 미세먼지 봇 개발
-  - 그다음 일정관리app  개발
+* 알뜰 구매 Bot
+  * telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
+  * 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
+  * node.js로 개발 : wrapper는 현재 사용하지 않을 계획이나, 구현이슈로 사용할 수도있음
+* 미세먼지 알림 Bot
+  * 2차로 미세먼지 봇 개발
+  * 그다음 일정관리app  개발
 
 
 신호철 :

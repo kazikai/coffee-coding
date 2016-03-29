@@ -27,6 +27,7 @@
 
 # 모임 순서
 * 이현국 (3/29)
+* 윤정현 (4/5)
 
 
 #프로젝트설명 (양식은 자유)
@@ -35,13 +36,15 @@
   * telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
   * 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
   * node.js로 개발 : wrapper는 현재 사용하지 않을 계획이나, 구현이슈로 사용할 수도있음
+  * 현재 node.js 로 chat_id 받아와서 텔레그램으로 전송하는 부분 개발 완료
+  * 다음주는 거의 완성된 telegram 봇을 공유할 예정
 * 미세먼지 알림 Bot
   * 2차로 미세먼지 봇 개발
   * 그다음 일정관리app  개발
 
 
 신호철 :
-* 부동산봇 : http://dsp.fun25.co.kr/wiki/index.php/%EB%B6%80%EB%8F%99%EC%82%B0_%EB%B4%87 
+* 부동산봇 : http://dsp.fun25.co.kr/wiki/index.php/%EB%B6%80%EB%8F%99%EC%82%B0_%EB%B4%87
 
 윤정현 :
 * 목적 - 자체 쇼핑몰 홈페이지 template 및 자체 위젯 확보

@@ -1,9 +1,20 @@
 #telegram bot
 
--  여기에 설명
-- 현재 메시지 보내기 구현 완료
+
+- webhook 구현 완료
 ---
-# http://dev.kazikai.net:17102/send
+# https://api.kazikai.net:8443/<token>
 # POST
-# 파라미터 : chat_id (String)
-# 파라미터 : text(String)
+# 파라미터 : webhook api
+
+- 포트는 3000, 8443 2개 ( )
+- 3000(http), 8443(https)
+
+
+- 제작한 api
+# 유저 등록
+# 노티 유저 등록
+# 유저 삭제
+# 노티 유저 삭제
+# 클라이 알뜰구매 조회 API (1분마다 crontab 호출 )
+## 최신 글 업데이트

@@ -63,16 +63,18 @@
   * GPUImage framework (https://github.com/BradLarson/GPUImage) 사용
   * Custom filter 개발을 위한 OpenGL ES Shader 공부 (https://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial 등)
 
-김성원 :
+김성원 : (2016.04.19v)
 * 범용 키워드 알림 BOT
   * URL과 Keyword를 입력하면 해당 URL에 Keyword가 보일 시 Noti
   * 알림채널
-    * Slack bot
-    * Telegram bot
-    * Email
-    * SMS
+    * Slack bot (x)
+    * Telegram bot (-ing)
+    * Email (x)
+    * SMS (x)
   * 1차구현
     * CGV 영화페이지 [상영시간표](http://www.cgv.co.kr/reserve/show-times/?areacode=01&theaterCode=0074&date=20160402)를 이용한 예매풀림 알림
+    * my-secretary.heroku.com 에서 지금까지 등록된 URL&Keyword 확인 가능
+    * Telegram bot api 연동 완료 (@KeywordNotiBot)
 
 이현국 :
 * Pizle 업데이트

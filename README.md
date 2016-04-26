@@ -35,7 +35,7 @@
 
 #프로젝트설명 (양식은 자유)
 한정현 :
-* 알뜰 구매 Bot : 1달 정도 ( 4/26 까지 )
+* 알뜰 구매 Bot : 1달 정도 ( 4/26 까지 ) - 사실상 개발및 운영은 완료..
   * telegram bot 개발하기: [hotdeal_bot](https://github.com/kazikai/coffee-coding/blob/master/hotdeal_bot.md)
   * 클리앙 알뜰구매 관련 노티 @Hotdeal_bot
   * node.js로 개발 : wrapper는 현재 사용하지 않을 계획이나, 구현이슈로 사용할 수도있음
@@ -43,15 +43,24 @@
   * 다음주는 거의 완성된 telegram 봇을 공유할 예정
   * 작성 완료 ( 4/15 )
   * 현재사용자 300여명 ( 방문자는 600여명 )
-  * 클리앙 팁과 강좌 게시판에 공유 이후
+    * 클리앙 팁과 강좌 게시판에 공유 이후
 
 * 파이썬 django 관련 정리
+  * 5월 모임부터. 공유 예정
 
 * jsweekly Bot 개발
+  * 이건 최대한 빨리
 
 * 미세먼지 알림 Bot
+  * 요즘 만들어서 공유하면 좋을것 같은데.. api를 어디서 가져올지 안정해짐   
   * 2차로 미세먼지 봇 개발
   * 그다음 일정관리app  개발
+
+* 주식 알림 Bot ( 미정 )
+  * 원하는 종목 상한/하한 알림
+  * 원하는 종목 조회
+  * 원하는 종목 장 열린후, 점심, 장 종료후 알림
+
 
 
 신호철 :
@@ -71,7 +80,7 @@
   * Swift로 개발
   * GPUImage framework (https://github.com/BradLarson/GPUImage) 사용
   * Custom filter 개발을 위한 OpenGL ES Shader 공부 (https://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial 등)
- 
+
 
 김성원 : (2016.04.19v)
 * 범용 키워드 알림 BOT

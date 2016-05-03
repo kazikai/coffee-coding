@@ -33,6 +33,10 @@
 * 서자랑 (4/26)
 * 신호철 (5/3)
 
+# 주간모임공유
+* [20160426](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.04.26.md)
+* [20160503](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.05.03.md)
+
 
 #프로젝트설명 (양식은 자유)
 한정현 :
@@ -50,7 +54,7 @@
 * jsweekly Bot 개발
   * 이건 최대한 빨리
 * 미세먼지 알림 Bot
-  * 요즘 만들어서 공유하면 좋을것 같은데.. api를 어디서 가져올지 안정해짐   
+  * 요즘 만들어서 공유하면 좋을것 같은데.. api를 어디서 가져올지 안정해짐
   * 2차로 미세먼지 봇 개발
   * 그다음 일정관리app  개발
 * 주식 알림 Bot ( 미정 )

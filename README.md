@@ -32,10 +32,12 @@
 * 배철민 (4/19) - 판교 파스쿠치
 * 서자랑 (4/26)
 * 신호철 (5/3)
+* 서자랑 (5/31)
 
 # 주간모임공유
 * [20160426](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.04.26.md)
 * [20160503](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.05.03.md)
+* [20160531](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.05.31.md)
 
 
 #프로젝트설명 (양식은 자유)

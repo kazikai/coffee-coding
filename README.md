@@ -38,7 +38,7 @@
 * [20160426](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.04.26.md)
 * [20160503](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.05.03.md)
 * [20160531](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.05.31.md)
-
+* [20160628](https://github.com/kazikai/coffee-coding/blob/master/weekly/2016.06.28.md)
 
 #프로젝트설명 (양식은 자유)
 한정현 :
